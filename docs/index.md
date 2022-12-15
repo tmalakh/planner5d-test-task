@@ -36,17 +36,17 @@ Depending on the received response, a specific message is displayed on the page:
 |200 OK |Your message has been sent successfully. We will contact you shortly.|
 |Any other response |Failed to send your request. Please try again.|
 
-## Translations
+## Translation
 
-The translations into other supported languages will be provided later.
+The translation into other supported languages will be provided later.
 
 # Virtual Reality Section
 
 The **Virtual Reality** section is a new section on the [Business page](https://planner5d.com/business). It is located under the **Augmented Reality** section.
 
-This section inherits the properties of the `<s-augmented-reality>` section above it. The main difference is the elements location and contents. 
+The new element inherits the properties of the `<s-augmented-reality>` section above it. The main difference is the elements location and contents. 
 
-Section features:
+Important features:
 
 - Adaptive design: when the width of the **Virtual Reality** section is 711px or less, the right text block moves under the main image;
 - The text block is aligned vertically to the main image.
@@ -70,6 +70,6 @@ The section layout is on the image below:
 |2|[VR_icon_2](https://planner5d.com/s/6/images/business/vr/vr_icon_02.svg)|Allow users to alter textures and colors in real time as they immerse themselves in the design.|
 |3|[VR_icon_3](https://planner5d.com/s/6/images/business/vr/vr_icon_03.svg)|Provide the option to edit items with one click and experience your products in 360 degrees.|
 
-## Translations
+## Translation
 
-The translations into other supported languages will be provided later.
+The translation into other supported languages will be provided later.
